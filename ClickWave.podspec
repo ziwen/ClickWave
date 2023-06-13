@@ -5,10 +5,11 @@
 # Any lines starting with a # are optional, but their use is encouraged
 # To learn more about a Podspec see https://guides.cocoapods.org/syntax/podspec.html
 #
+source='https://mirrors.tuna.tsinghua.edu.cn/git/CocoaPods/Specs.git,https://cdn.cocoapods.org/'
 
 Pod::Spec.new do |s|
   s.name             = 'ClickWave'
-  s.version          = '0.0.2'
+  s.version          = '0.0.3'
   s.summary          = 'ClickWave.'
   s.description      =  "ClickWave create by ZHAO XUESHU"
  #                       <<-DESC
